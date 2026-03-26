@@ -1,0 +1,6 @@
+robotframework
+robotframework-seleniumlibrary
+pandas
+
+# Needed for win32com.client (Outlook email sending on Windows)
+pywin32
