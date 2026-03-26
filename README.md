@@ -1,5 +1,8 @@
-# Server Availability Bot
-This bot uses Robot Framework + Python to check server availability on https://botsdna.com/ServerAvailability/ and send you one summary email with the results (via Outlook on the same PC)
+# Server Availability Bot-RPA
+🤖 Server Availability RPA (End-to-End Test)
+This project demonstrates a full end-to-end automation workflow using Robot Framework and Python. The bot autonomously checks server statuses on BotsDNA and triggers a professional summary email via Outlook—requiring zero human clicks once started.
+📩 Automated Proof of Delivery
+I have included a screenshot of the actual email received in my inbox. This serves as visual verification that the bot successfully scraped the data, processed the results, and interfaced with the desktop mail client without intervention.
 
 ## Run
 1. Install dependencies: `pip install -r requirements.txt`
