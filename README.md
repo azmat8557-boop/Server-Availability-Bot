@@ -21,4 +21,4 @@ In `Serverrobot.robot`, it is set at:
 
 
 ## Main files
-- `Serverrobot.robot`, `serverpython.py`, `requirements.txt`
+- `Serverrobot.robot`, `serverpython.py`, `requirements.txt`, `Emailbotscreenshot.jpg`
