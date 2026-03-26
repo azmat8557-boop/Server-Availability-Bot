@@ -1,7 +1,7 @@
 # Server Availability Bot-RPA
-🤖 Server Availability RPA (End-to-End Test)
+🤖 Server Availability RPA (End-to-End Test) : 
 This project demonstrates a full end-to-end automation workflow using Robot Framework and Python. The bot autonomously checks server statuses on BotsDNA and triggers a professional summary email via Outlook—requiring zero human clicks once started.
-📩 Automated Proof of Delivery
+📩 Automated Proof of Delivery : 
 I have included a screenshot of the actual email received in my inbox. This serves as visual verification that the bot successfully scraped the data, processed the results, and interfaced with the desktop mail client without intervention.
 
 ## Run
