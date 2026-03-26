@@ -13,7 +13,7 @@ This bot checks server availability on `https://botsdna.com/ServerAvailability/`
 
 ## `input.xlsx` columns required
 - `UID`, `PWD`, `Server Code`, `IP`, `Status`
-(`ServerOption` is generated automatically by the Python code.)
+(`Server---Option---` is generated automatically by the Python code.)
 
 ## Email rows (test control)
 In `Serverrobot.robot`, it is set at:
