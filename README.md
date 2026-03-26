@@ -1,5 +1,5 @@
 # Server Availability Bot
-This bot checks server availability on `https://botsdna.com/ServerAvailability/` and sends you **one summary email** with the results (via Outlook on the same PC).
+This bot uses Robot Framework + Python to check server availability on https://botsdna.com/ServerAvailability/ and send you one summary email with the results (via Outlook on the same PC)
 
 ## Run
 1. Install dependencies: `pip install -r requirements.txt`
